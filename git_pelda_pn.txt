@@ -1,0 +1,4 @@
+git clone
+git addd "filenév"
+git commit -m
+git push
